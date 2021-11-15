@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\slaye\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\slaye\\.nuget\\packages",
+      "E:\\App\\VStudio\\shared\\NuGetPackages"
+    ]
+  }
+}
